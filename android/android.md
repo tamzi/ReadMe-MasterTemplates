@@ -26,7 +26,7 @@ You can have multiple images like below.
 #### App Stores
 Is the app published? You can share a link as below:
 
-[![Download it on Google Play](https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/play.png)](https://play.google.com/store/apps/details?id=com.package.path)
+[![Download it on Google Play](https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/gplay.png)](https://play.google.com/store/apps/details?id=com.package.path)
 
 
 ### TECHNICAL
