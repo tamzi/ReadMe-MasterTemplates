@@ -31,6 +31,7 @@ Is the app published? You can share a link as below:
 
 ### TECHNICAL
 
+
 #### How to use
 COMING UP!!
 TBW
@@ -40,4 +41,16 @@ TBW
 I would/ We'd love to have your help in making  **{this app (replace with name of your project)}** better. The project is still very incomplete, but if there's an issue you'd like to see addressed sooner rather than later, let me(/us) know. 
 
 For any concerns, please open an [issue{edit this}](https://github.com/YourUserNameHere/ProjectName/issues), or JUST, [fork the project and send a pull request{edit this}](https://github.com/YourUserNameHere/ProjectName/pulls). 
+
+## Permissions
+* Any permissions needed by the app i.e:
+
+1. Internet
+2. Browse phone
+
+## License 
+* see [LICENSE](https://github.com/YourUserNameHere/ProjectName/LICENSE.md) file
+
+## Version 
+* Version X.Y  DATE 12/2/2019
 
