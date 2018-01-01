@@ -1,6 +1,9 @@
+# You can reame this file to be the README.md of your project. or just copy, paste and edit its contents
+
 ## App Name 
 
 **App Name** is an app for this an athat wand generallay aimas to bla bla bla.
+
 
 ###
 Short description of how it works: maybe a small user flow.
