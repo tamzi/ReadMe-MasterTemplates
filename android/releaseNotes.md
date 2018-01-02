@@ -25,7 +25,7 @@ This is our/my most major release, which introduces the following features:
 
 ## Version 1.1.9 (27th December 2017)
  
-A minor release, which fixed the following changes:
+A minor release, which fixed the following issues:
 
 - Patched security settings
 

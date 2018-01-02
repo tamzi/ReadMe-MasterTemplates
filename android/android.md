@@ -6,7 +6,7 @@
 
 
 ###
-Short description of how it works: maybe a small user flow.
+Short description of how it works: maybe a small user flow description.
 
 ### GENERAL PREVIEW
 #### Screenshots of the app
