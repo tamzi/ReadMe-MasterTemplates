@@ -7,12 +7,14 @@ If you are working on your projects and using github, the README.md file is a us
  bookmarked somewhere in your browser.(If you can learn it, awesome! It will save you time...**But it really is not important**). 
 
 2. There are different Markdown templates for each type of project as below: 
-    * Android Application
+    * Android
     * Website
-    * IOS Application
+    * IOS
     * Scripts
+3. As a general rule, provide link to download the app/website if its published on the playstore at the description section above.
 
 
+### Star fork , share :) help other developers improve their github project presentation.
 
 [![npm](https://img.shields.io/npm/l/express.svg?maxAge=2592000)](https://github.com/tamzi/Yolby/blob/master/LICENSE)
 

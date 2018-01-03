@@ -4,6 +4,18 @@
 
 **App Name** is an app for this an athat wand generallay aimas to bla bla bla.
 
+### Project Contents
+
+Folders:
+    * Apk -  
+    * Images - 
+    * ProjectFolder - 
+
+Files:
+    - contributing.md - 
+    - releaseNotes.md - 
+
+
 
 ###
 Short description of how it works: maybe a small user flow description.
@@ -36,8 +48,27 @@ Is the app published? You can share a link as below:
 
 
 #### How to use
-COMING UP!!
-TBW
+
+
+
+
+## Running the project
+
+You can:
+    a. clone the project and compile it yourself (Most up to date)
+    b. Run the already compiled version on the(the proect comes with an apk folderwith various apk versions), 
+    c. You can check it out already compiled at Google Play(Mostly the one that is last to be published.)
+        Downoad it here: [Download App](https://play.google.com/store/apps/details?id=com.package.path)
+
+
+*include option c if you have published the app on the palystore.
+
+#### ProTip
+- If installing the various apks from the apk folders using option b; to instal a later version, uninstal the lastest version first.
+
+
+
+
 
 #### CONTRIBUTING
 
