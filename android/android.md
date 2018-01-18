@@ -4,7 +4,7 @@
 
 **App Name** is an app for this an athat wand generallay aimas to bla bla bla.
 
-### Project Contents
+### Project's table of Contents
 
 Folders:
     * Apk -  
