@@ -56,7 +56,7 @@ Is the app published? You can share a link as below:
 
 You can:
 
-    a. clone the project and compile it yourself (Most up to date)
+    a. clone the project and compile it yourself in android studio(Most up to date)
     b. Run the already compiled version on the(the proect comes with an apk folderwith various apk versions), 
     c. You can check it out already compiled at Google Play(Mostly the one that is last to be published.)
         Downoad it here: [Download App](https://play.google.com/store/apps/details?id=com.package.path)
@@ -64,10 +64,14 @@ You can:
 
 *include option c if you have published the app on the palystore.
 
+## Running the source code:
+ - To run this project use Android studio 3.* and later. It will be less messy.
+ - Gradle version used: gradle 4.0. You can use multiple gradle versions vby having them stored offline. [You can read this to set it up.](www.sth)
+ 
+
+
 #### ProTip
 - If installing the various apks from the apk folders using option b; to instal a later version, uninstal the lastest version first.
-
-
 
 
 
