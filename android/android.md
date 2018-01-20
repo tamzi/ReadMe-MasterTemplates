@@ -1,6 +1,6 @@
-# You can reame this file to be the README.md of your project. or just copy, paste and edit its contents
+## You can rename this file to be the README.md of your project. or just copy, paste and edit its contents
 
-## App Name 
+# App Name 
 
 **App Name** is an app for this an athat wand generallay aimas to bla bla bla.
 
@@ -17,7 +17,7 @@ Files:
 
 
 
-###
+### about app
 Short description of how it works: maybe a small user flow description.
 
 ### GENERAL PREVIEW
@@ -55,6 +55,7 @@ Is the app published? You can share a link as below:
 ## Running the project
 
 You can:
+
     a. clone the project and compile it yourself (Most up to date)
     b. Run the already compiled version on the(the proect comes with an apk folderwith various apk versions), 
     c. You can check it out already compiled at Google Play(Mostly the one that is last to be published.)

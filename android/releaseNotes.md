@@ -5,8 +5,8 @@ The very latest version should be at the top. the older versions should apper at
 *Version* to have a title as: Version Number - Release date
 
 *Version number:*
- - Really depends on what you want.
- - Some people start from 0.0.1 and go all the way to 1.0.0 and proceed on...others from 1.0 and then 1.1 etc..so it depends on your cup of tea.
+  - Really depends on what you want.
+  - Some people start from 0.0.1 and go all the way to 1.0.0 and proceed on...others from 1.0 and then 1.1 etc..so it depends on your cup of tea.
  
  What to include in each version number:
   - Bugs fixed.
