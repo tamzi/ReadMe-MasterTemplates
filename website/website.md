@@ -22,15 +22,25 @@ Short description of how it works: maybe a small user flow description.
 
 #### Hosted?
 Is the website hosted? IT SHOULD.
-there are a couple of free github hosted sites.
+there are a couple of free github hosted sites:
+    * [surge](https://surge.sh/)
+    * [netlify](https://www.netlify.com/)
+    * [cloudcanon](https://cloudcannon.com/) - For jekyll sites
+    * [now](https://zeit.co/now)
 
-servie]
+Do you know others, [let us know here](https://github.com/tamzi/ReadMe-MasterTemplates/issues)
+
+Add the link to where it is hosted at the top of your project
+
+[[https://github.com/tamzi/ReadMe-MasterTemplates/website/art/websitelink.png|alt=URL link for your website]]
+
+
 
 ### TECHNICAL
 
 
 #### How instal/ use it
-## Running the project
+#### Running the project
 
 You can:
     a. clone the project and compile it yourself (Most up to date)
