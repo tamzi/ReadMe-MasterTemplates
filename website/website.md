@@ -32,7 +32,7 @@ Do you know others, [let us know here](https://github.com/tamzi/ReadMe-MasterTem
 
 Add the link to where it is hosted at the top of your project
 
-![Link your project](https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/website/art/web.png "Link your project!")
+![Link your project location](https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/website/art/web.png "Link your project!")
 
 ### TECHNICAL
 
