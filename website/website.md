@@ -47,6 +47,34 @@ You can:
 
 #### ProTip
 
+### To Do List
+
+Add the various things that you are working on.  
+
+- [ ] Adding bounce animations to the home page
+- [x] Creating a gallery
+- [x] Updating the website to the Maa 2.0 framework
+- [x] Praying that this thing works
+- [ ] Adding various potatoes to be eaten in the couch
+- [ ] Building a castle in the air
+- [ ] Listening to new musci from my favourite artist
+
+
+
+
+### To Do List
+
+Add the various things that you are working on.  
+
+- [ ] Adding bounce animations to the home page
+- [x] Creating a gallery
+- [x] Updating the website to the Maa 2.0 framework
+- [x] Praying that this thing works
+- [ ] Adding various potatoes to be eaten in the couch
+- [ ] Building a castle in the air
+- [ ] Listening to new musci from my favourite artist
+
+
 
 
 #### CONTRIBUTING

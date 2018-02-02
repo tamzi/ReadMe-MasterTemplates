@@ -73,6 +73,20 @@ You can:
 #### ProTip
 - If installing the various apks from the apk folders using option b; to instal a later version, uninstal the lastest version first.
 
+### To Do List
+
+Add the various things that you are working on.  
+
+- [ ] Adding bounce animations to the home screen
+- [x] Creating a gallery
+- [x] Updating the App to gradle 4.0
+- [x] Praying that this thing works
+- [ ] Adding various potatoes to be eaten in the couch
+- [ ] Building a castle in the air
+- [ ] Listening to new musci from my favourite artist
+
+
+
 
 
 #### CONTRIBUTING
