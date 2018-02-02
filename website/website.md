@@ -62,21 +62,6 @@ Add the various things that you are working on.
 
 
 
-### To Do List
-
-Add the various things that you are working on.  
-
-- [ ] Adding bounce animations to the home page
-- [x] Creating a gallery
-- [x] Updating the website to the Maa 2.0 framework
-- [x] Praying that this thing works
-- [ ] Adding various potatoes to be eaten in the couch
-- [ ] Building a castle in the air
-- [ ] Listening to new musci from my favourite artist
-
-
-
-
 #### CONTRIBUTING
 
 I would/ We'd love to have your help in making  **{this app (replace with name of your project)}** better. The project is still very incomplete, but if there's an issue you'd like to see addressed sooner rather than later, let me(/us) know. 
@@ -86,7 +71,7 @@ Before you contribute though read the contributing guide here: [COntributing.md{
 For any concerns, please open an [issue{edit this}](https://github.com/YourUserNameHere/ProjectName/issues), or JUST, [fork the project and send a pull request{edit this}](https://github.com/YourUserNameHere/ProjectName/pulls). 
 
 
-
+<hr>
 ## License 
 * see [LICENSE](https://github.com/YourUserNameHere/ProjectName/LICENSE.md) file
 
@@ -98,4 +83,13 @@ For any concerns, please open an [issue{edit this}](https://github.com/YourUserN
 ## Contact information
 
 For personal feedback or questions feel free to contact me via the mail address, which is mentioned on my [Github profile](link (https://github.com/tamzi). If you have found any bugs or want to post a feature request please use the [bugtracker](https://github.com/tamzi/ReadMe-MasterTemplates/issues) to report them.
+
+<hr>
+If its open source:
+
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
+
+If the Licence is MIT:
+
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)]()
 

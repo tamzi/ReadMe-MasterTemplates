@@ -1,11 +1,40 @@
-# ReadMe -MasterTemplates
-If you are working on your projects and using github, the README.md file is a useful file for you to write good and clear documentations for  your projects.
+<p align="center">
+  <a href="https://github.com/tamzi/ReadMe-MasterTemplates">
+    <img src="#" alt="ReadMe-MasterTemplates" width=150 height=150>
+  </a>
+  <h3 align="center">Project Heading</h3>
 
-Despite the fact that you writing atechnical document, it needs to be clear. Describing your project makes it easier for 
-### WHY ReadMe-MasterTemplates?
+  <p align="center">
+    If you are working on your projects and using github, the README.md file is a useful file for you to write good and clear documentations for  your projects. Use this readMe to get started wiyth your project ReadMe faster.
+    <br>
+    </p>
+</p>
+
+<br>
+
+## Table of contents
+- [Description](#)
+- [Why the ReadMe-MasterTemplates?](#)
+- [How to use them](#)
+- [Technical](#)
+- [To Do checkList](#)
+- [Permissions](#)
+- [Licence](#)
+- [Versions](#)
+- [Contact Information](#)
+- [Link to deeper Notes-(Link to another File)](#https://github.com/tamzi/ML4Mobile/blob/master/notes.md)
 
 
-### HOW TO USE THEM
+<hr>
+### Description
+Despite the fact that you writing a technical document, it needs to be clear. Describing your project makes it easier for 
+
+<hr>
+### Why the ReadMe-MasterTemplates?
+
+
+<hr>
+### How to use them
 
 1. All the files are in markdown format. Not important to learn markdown. That being said, it is always great to have the [Markdown CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
  bookmarked somewhere in your browser.(If you can learn it, awesome! It will save you time...**But it really is not important: the more you use markdown, the better you get at it O.o**). 
@@ -19,8 +48,19 @@ Despite the fact that you writing atechnical document, it needs to be clear. Des
 4. Want to contribute? Feel free: it's open source
 
 
-### Star fork , share :) help other developers improve their github project presentation.
+<hr>
+### To Do checkList
 
-[![npm](https://img.shields.io/npm/l/express.svg?maxAge=2592000)](https://github.com/tamzi/Yolby/blob/master/LICENSE)
+- [x] Create Android ReadMe
+- [x] Create a website ReadMe for Html and css and JS projects
+- [x] Creat a Scripts ReadMe file for Python, php, js type projects
+- [x] Create a ReadMe file for projects
+- [ ] Finish v1 of the project
+- [ ] Do a minor launch for feedback and usage
 
+<hr>
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
+
+
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)]()
 

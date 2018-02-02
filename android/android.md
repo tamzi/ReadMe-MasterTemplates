@@ -1,25 +1,37 @@
-## You can rename this file to be the README.md of your project. or just copy, paste and edit its contents
+<p align="center">
+  <a href="https://github.com/yourUserName/YourProjectName">
+    <img src="#" alt="Project Name" width=150 height=150>
+  </a>
+  <h3 align="center">Project Heading</h3>
 
-# App Name 
+  <p align="center">
+    Brief description about your project. <br>
+   And extra description.
+    <br>
+    </p>
+</p>
 
-**App Name** is an app for this an athat wand generallay aimas to bla bla bla.
+<br>
 
-### Project's table of Contents
+## Table of contents
+- [Projects Map](#)
+- [About the App](#)
+- [General Preview](#)
+- [Technical](#)
+- [To Do List](#)
+- [Permissions](#)
+- [Licence](#)
+- [Versions](#)
+- [Contact Information](#)
+- [Link to deeper Notes-(Link to another File)](#https://github.com/tamzi/ML4Mobile/blob/master/notes.md)
 
-Folders:
-    * Apk -  
-    * Images - 
-    * ProjectFolder - 
-
-Files:
-    - contributing.md - 
-    - releaseNotes.md - 
 
 
-
+<hr>
 ### about app
 Short description of how it works: maybe a small user flow description.
 
+<hr>
 ### GENERAL PREVIEW
 #### Screenshots of the app
 You can have multiple images like below.
@@ -44,6 +56,7 @@ Is the app published? You can share a link as below:
 [![Download it on Google Play](https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/gplay.png)](https://play.google.com/store/apps/details?id=com.package.path)
 
 
+<hr>
 ### TECHNICAL
 
 
@@ -52,7 +65,7 @@ Is the app published? You can share a link as below:
 
 
 
-## Running the project
+#### Running the project
 
 You can:
 
@@ -64,7 +77,7 @@ You can:
 
 *include option c if you have published the app on the palystore.
 
-## Running the source code:
+#### Running the source code:
  - To run this project use Android studio 3.* and later. It will be less messy.
  - Gradle version used: gradle 4.0. You can use multiple gradle versions vby having them stored offline. [You can read this to set it up.](www.sth)
  
@@ -73,7 +86,8 @@ You can:
 #### ProTip
 - If installing the various apks from the apk folders using option b; to instal a later version, uninstal the lastest version first.
 
-### To Do List
+<hr>
+## To Do List
 
 Add the various things that you are working on.  
 
@@ -83,7 +97,7 @@ Add the various things that you are working on.
 - [x] Praying that this thing works
 - [ ] Adding various potatoes to be eaten in the couch
 - [ ] Building a castle in the air
-- [ ] Listening to new musci from my favourite artist
+- [ ] Listening to new music from my favourite artist
 
 
 
@@ -97,21 +111,34 @@ Before you contribute though read the contributing guide here: [COntributing.md{
 
 For any concerns, please open an [issue{edit this}](https://github.com/YourUserNameHere/ProjectName/issues), or JUST, [fork the project and send a pull request{edit this}](https://github.com/YourUserNameHere/ProjectName/pulls). 
 
+<hr>
 ## Permissions
 * Any permissions needed by the app i.e:
 
 1. Internet
 2. Browse phone
 
+<hr>
 ## License 
 * see [LICENSE](https://github.com/YourUserNameHere/ProjectName/LICENSE.md) file
 
-## Version 
+<hr>
+## Versions 
 * Version X.Y  DATE 12/2/2019
 
 
 
+<hr>
 ## Contact information
-
 For personal feedback or questions feel free to contact me via the mail address, which is mentioned on my [Github profile](link (https://github.com/tamzi). If you have found any bugs or want to post a feature request please use the [bugtracker](https://github.com/tamzi/ReadMe-MasterTemplates/issues) to report them.
+<hr>
+
+If its open source:
+
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
+
+If the Licence is MIT:
+
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)]()
+
 
