@@ -104,7 +104,13 @@ Add the various things that you are working on.
 
 
 #### CONTRIBUTING
+### Assets
+* Any credit to artists(music,images,gifs...)
 
+### List of the Contributors on GitHub
+* [Contributors](https://github.com/username/projectName/graphs/contributors)
+
+### Want to contribute?
 I would/ We'd love to have your help in making  **{this app (replace with name of your project)}** better. The project is still very incomplete, but if there's an issue you'd like to see addressed sooner rather than later, let me(/us) know. 
 
 Before you contribute though read the contributing guide here: [COntributing.md{edit this}](https://github.com/YourUserNameHere/ProjectName/contributing.md)
@@ -131,6 +137,14 @@ For any concerns, please open an [issue{edit this}](https://github.com/YourUserN
 <hr>
 ## Contact information
 For personal feedback or questions feel free to contact me via the mail address, which is mentioned on my [Github profile](link (https://github.com/tamzi). If you have found any bugs or want to post a feature request please use the [bugtracker](https://github.com/tamzi/ReadMe-MasterTemplates/issues) to report them.
+
+#### Developer/Company
+* Homepage:  
+* e-mail: 
+* Twitter: [@yourtwitterhandle](https://twitter.com/yourTwitterHandle "YourName on twitter")
+* other communication/social media
+
+
 <hr>
 
 If its open source:

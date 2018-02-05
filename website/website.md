@@ -1,5 +1,37 @@
 # You can reame this file to be the README.md of your project. or just copy, paste and edit its contents
 
+
+<p align="center">
+  <a href="https://github.com/yourUserName/YourProjectName">
+    <img src="#" alt="Project Name" width=150 height=150>
+  </a>
+  <h3 align="center">Project Heading</h3>
+
+  <p align="center">
+    Brief description about your project. <br>
+   And extra description.
+    <br>
+    </p>
+</p>
+
+<br>
+
+## Table of contents
+- [About the Website](#)
+- [General Preview](#)
+- [Technical](#)
+- [To Do List](#)
+- [Permissions](#)
+- [Licence](#)
+- [Versions](#)
+- [Contact Information](#)
+- [Link to deeper Notes-(Link to another File)](#https://github.com/tamzi/ML4Mobile/blob/master/notes.md)
+
+
+
+
+
+
 ## Website Name 
 
 **App Name** is an app for this an that wand generallay aimas to bla bla bla.
