@@ -55,18 +55,16 @@ Is the app published? You can share a link as below:
 
 [![Download it on Google Play](https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/gplay.png)](https://play.google.com/store/apps/details?id=com.package.path)
 
+<hr>
+## Permissions
+* Any permissions needed by the app i.e:
+
+1. Internet
+2. Browse phone
 
 <hr>
-### TECHNICAL
-
-
-#### How to use
-
-
-
 
 #### Running the project
-
 You can:
 
     a. clone the project and compile it yourself in android studio(Most up to date)
@@ -74,19 +72,31 @@ You can:
     c. You can check it out already compiled at Google Play(Mostly the one that is last to be published.)
         Downoad it here: [Download App](https://play.google.com/store/apps/details?id=com.package.path)
 
-
 *include option c if you have published the app on the palystore.
-
-#### Running the source code:
- - To run this project use Android studio 3.* and later. It will be less messy.
- - Gradle version used: gradle 4.0. You can use multiple gradle versions vby having them stored offline. [You can read this to set it up.](www.sth)
- 
-
-
-#### ProTip
-- If installing the various apks from the apk folders using option b; to instal a later version, uninstal the lastest version first.
-
 <hr>
+
+### TECHNICAL
+
+### How to use
+
+**1. Required to run project:**
+       ` - To run this project use Android studio 3.* and later. It will be less messy.
+         - Gradle version used: gradle 4.0. You can use multiple gradle versions vby having them stored offline. [You can read this to set it up.](www.sth)
+        `
+
+**2. Clone this repository :**
+ 
+         `git clone https://github.com/username/projectname.git`
+         
+**3. open Project in Android Studio
+
+**4. Build Project**
+
+**5. Incase of an eror when building project, update your gradle version, Build Tools download**
+
+
+
+
 ## To Do List
 
 Add the various things that you are working on.  
@@ -105,7 +115,7 @@ Add the various things that you are working on.
 
 #### CONTRIBUTING
 ### Assets
-* Any credit to artists(music,images,gifs...)
+* Credit to artists(music,images,gifs...)
 
 ### List of the Contributors on GitHub
 * [Contributors](https://github.com/username/projectName/graphs/contributors)
@@ -118,31 +128,25 @@ Before you contribute though read the contributing guide here: [COntributing.md{
 For any concerns, please open an [issue{edit this}](https://github.com/YourUserNameHere/ProjectName/issues), or JUST, [fork the project and send a pull request{edit this}](https://github.com/YourUserNameHere/ProjectName/pulls). 
 
 <hr>
-## Permissions
-* Any permissions needed by the app i.e:
 
-1. Internet
-2. Browse phone
-
-<hr>
 ## License 
 * see [LICENSE](https://github.com/YourUserNameHere/ProjectName/LICENSE.md) file
 
-<hr>
+
 ## Versions 
 * Version X.Y  DATE 12/2/2019
 
 
 
-<hr>
 ## Contact information
 For personal feedback or questions feel free to contact me via the mail address, which is mentioned on my [Github profile](link (https://github.com/tamzi). If you have found any bugs or want to post a feature request please use the [bugtracker](https://github.com/tamzi/ReadMe-MasterTemplates/issues) to report them.
+
 
 #### Developer/Company
 * Homepage:  
 * e-mail: 
 * Twitter: [@yourtwitterhandle](https://twitter.com/yourTwitterHandle "YourName on twitter")
-* other communication/social media
+* other communication channels i.e Social Media, Forum etc
 
 
 <hr>
