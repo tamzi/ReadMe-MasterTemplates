@@ -18,6 +18,7 @@
 - [About the App](#)
 - [General Preview](#)
 - [Technical](#)
+    - [Project Dependencies](#)
 - [To Do List](#)
 - [Permissions](#)
 - [Licence](#)
@@ -77,7 +78,7 @@ You can:
 
 ### TECHNICAL
 
-### How to use
+#### How to use
 
 **1. Required to run project:**
        ` - To run this project use Android studio 3.* and later. It will be less messy.
@@ -95,7 +96,7 @@ You can:
 **5. Incase of an eror when building project, update your gradle version, Build Tools download**
 
 
-
+#### Dependencies
 
 ## To Do List
 
@@ -159,4 +160,6 @@ If the Licence is MIT:
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)]()
 
+#### project-donation
 
+You can add *Gittip/Flattr/Paypal* buttons like this:
