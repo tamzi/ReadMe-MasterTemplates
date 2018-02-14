@@ -12,7 +12,7 @@ The very latest version should be at the top. the older versions should apper at
   - Bugs fixed.
   - New features introduced.
   - Updates made
-  *You could be having all above or even one of the above. Just ensure you explaine each release.
+  *You could be having all the above or even one of the above. Just ensure you explaine each release.
  
  
 ## Version 1.2.0 - 1st January 2018
@@ -46,7 +46,7 @@ A bugfix release, which fixes the following issues:
 
 The first release with the following features:
 
-List the features of the app:
+List the features of the website:
 
 - Tutorial feature
 - AppIntro which talks about the app before its started.

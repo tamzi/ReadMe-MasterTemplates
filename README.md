@@ -66,12 +66,11 @@ ReadMe MasterTemplates aims to:
 - [x] Create a website ReadMe for Html and css and JS projects
 - [ ] Creat a Scripts ReadMe file for Python, php, js type projects
 - [ ] Create a ReadMe file for IOS projects
-- [ ] Finish v1 of the project
+- [x] Finish v1 of the project
 - [ ] Minor launch for feedback and usage
 
 <hr>
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=103)](#)  
 
-
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)]()
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](#)
 

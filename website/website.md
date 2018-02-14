@@ -1,4 +1,4 @@
-# You can reame this file to be the README.md of your project. or just copy, paste and edit its contents
+# You can rename this file to be the README.md of your project. or just copy, paste and edit its contents to the default readMe created by github.
 
 
 <p align="center">
@@ -77,8 +77,6 @@ You can:
     b. Run the already compiled version on the(the proect comes with an apk folderwith various apk versions), 
     
 
-#### ProTip
-
 ### To Do List
 
 Add the various things that you are working on.  
@@ -114,12 +112,12 @@ For any concerns, please open an [issue{edit this}](https://github.com/YourUserN
 
 ## Contact information
 
-For personal feedback or questions feel free to contact me via the mail address, which is mentioned on my [Github profile](link (https://github.com/tamzi). If you have found any bugs or want to post a feature request please use the [bugtracker](https://github.com/tamzi/ReadMe-MasterTemplates/issues) to report them.
+For personal feedback or questions feel free to contact me via the mail address, which is mentioned on [My Github profile](link (https://github.com/tamzi). If you have found any bugs or want to post a feature request please use the [Issuetracker](https://github.com/tamzi/ReadMe-MasterTemplates/issues) to report them.
 
 <hr>
 If its open source:
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=103)](#)  
 
 If the Licence is MIT:
 
