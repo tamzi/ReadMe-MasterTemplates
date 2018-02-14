@@ -31,6 +31,17 @@ Despite the fact that you writing a technical document, it needs to be clear. De
 
 <hr>
 ### Why the ReadMe-MasterTemplates?
+I lecture and coach technology. With the use of version control, i have noticed a huge struggle among most people to do a brief of what their project is about. Lets face it, most developers are not into typing out prose. 
+<br>
+In addition, most do not know what to include so that someone else working on their project can benefit.
+<br>
+This is the foundation behind this project. A smple project that allows you to get started with a well written **ReadMe.md** file.
+
+ReadMe MasterTemplates aims to:
+    * Give developers an easy time when writing their project ReadMe.
+    * Enable more time to be spent coding out their projects.
+    * Help us have better github projects without one liners.
+    * Help people who want to use the various projects on github to know more about the project's architecture.
 
 
 <hr>
@@ -51,15 +62,15 @@ Despite the fact that you writing a technical document, it needs to be clear. De
 <hr>
 ### To Do checkList
 
-- [x] Create Android ReadMe
+- [x] Create An Android Projects ReadMe
 - [x] Create a website ReadMe for Html and css and JS projects
-- [x] Creat a Scripts ReadMe file for Python, php, js type projects
-- [x] Create a ReadMe file for projects
+- [ ] Creat a Scripts ReadMe file for Python, php, js type projects
+- [ ] Create a ReadMe file for IOS projects
 - [ ] Finish v1 of the project
-- [ ] Do a minor launch for feedback and usage
+- [ ] Minor launch for feedback and usage
 
 <hr>
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badge/)  
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=103)](#)  
 
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)]()
