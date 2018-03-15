@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/tamzi/ReadMe-MasterTemplates">
-    <img src="#" alt="ReadMe-MasterTemplates" width=150 height=150>
+    <img src="art/" alt="ReadMe-MasterTemplates" width=150 height=150>
   </a>
   <h3 align="center">Project Heading</h3>
 
@@ -22,8 +22,6 @@
 - [Licence](#)
 - [Versions](#)
 - [Contact Information](#)
-- [Link to deeper Notes-(Link to another File)](#https://github.com/tamzi/ML4Mobile/blob/master/notes.md)
-
 
 <hr>
 ### Description
@@ -55,6 +53,8 @@ ReadMe MasterTemplates aims to:
     * [Website](https://github.com/tamzi/ReadMe-MasterTemplates/tree/master/website)- For websites with HTML, CSS and JS
     * IOS ...coming soon
     * Scripts ....coming soon
+    
+    Want a briefed version without many files to just copy paste: use this [brief]()
 3. As a general rule, provide link to download the app/website if its published on the playstore at the description section above.
 4. Want to contribute? Feel free: it's open source
 
