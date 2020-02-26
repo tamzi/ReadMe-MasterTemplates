@@ -22,3 +22,17 @@
 (text)
 <h3 id="project-restrictions">Restrictions</h3>
 (text)
+
+
+
+## 📋 Technical
+
+
+## 🚧 Work in progress 👷‍ 🚧
+
+## 🎉⛏ 🔧️  Contributers
+
+## 📖 Contributing
+
+
+👷‍ 🚧⛏ 🔧️

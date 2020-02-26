@@ -1,4 +1,4 @@
-# You can rename this file to be the README.md of your project. or just copy, paste and edit its contents to the default readMe created by github.
+# Rename this file to be the README.md of your project. or just copy, paste and edit its contents to the default readMe created by github.
 
 
 <p align="center">
@@ -16,41 +16,20 @@
 
 <br>
 
+
 ## Table of contents
-- [About the Website](#)
-- [General Preview](#)
-- [Technical](#)
-- [To Do List](#)
-- [Permissions](#)
-- [Licence](#)
-- [Versions](#)
-- [Contact Information](#)
-- [Link to deeper Notes-(Link to another File)](#https://github.com/tamzi/ML4Mobile/blob/master/notes.md)
+- [About the Website](#about-the-website)
+- [Technical](#technical)
+- [To Do List](#to-do-list)
+- [Licence](#license)
+- [Versions](#versions)
+- [Contact Information](#contact-information)
 
 
 
+### About the website
 
-
-
-## Website Name 
-
-**App Name** is an app for this an that wand generallay aimas to bla bla bla.
-
-### Project's table of Contents
-
-Folders:
-    * screenshots -  
-    * ProjectFolder - 
-
-Files:
-    - contributing.md - 
-    - releaseNotes.md - 
-
-
-
-###
-Short description of how it works: maybe a small user flow description.
-
+Explain what your website is about. This is ideally not technical but you are exlplaining to a non-techie.
 
 #### Hosted?
 Is the website hosted? IT SHOULD.
@@ -66,16 +45,17 @@ Add the link to where it is hosted at the top of your project
 
 ![Link your project location](https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/website/art/web.png "Link your project!")
 
-### TECHNICAL
+### Technical
+#### Technology Used
+This project uses:
+    - HTML
+    - CSS
+    - Bootstrap
 
-
-#### How instal/ use it
 #### Running the project
 
 You can:
     a. clone the project and compile it yourself (Most up to date)
-    b. Run the already compiled version on the(the proect comes with an apk folderwith various apk versions), 
-    
 
 ### To Do List
 
@@ -102,24 +82,24 @@ For any concerns, please open an [issue{edit this}](https://github.com/YourUserN
 
 
 <hr>
-## License 
+
+### License
 * see [LICENSE](https://github.com/YourUserNameHere/ProjectName/LICENSE.md) file
 
-## Version 
-* Version X.Y  DATE 12/2/2019
+### Versions
+* Version 1.0  DATE 19/01/2020
 
 
 
-## Contact information
+### Contact Information
 
-For personal feedback or questions feel free to contact me via the mail address, which is mentioned on [My Github profile](link (https://github.com/tamzi). If you have found any bugs or want to post a feature request please use the [Issuetracker](https://github.com/tamzi/ReadMe-MasterTemplates/issues) to report them.
+If you have found any bugs, or have any feedback or questions and or want to post a feature request please use the [Issuetracker](https://github.com/tamzi/ReadMe-MasterTemplates/issues) to report them.
 
 <hr>
-If its open source:
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=103)](#)  
 
-If the Licence is MIT:
+<br>
 
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)]()
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](https://github.com/tamzi/ReadMe-MasterTemplates/blob/master/LICENSE)
 
