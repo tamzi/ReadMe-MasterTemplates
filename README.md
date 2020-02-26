@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://github.com/tamzi/ReadMe-MasterTemplates">
-    <img src="art/" alt="ReadMe-MasterTemplates" width=150 height=150>
+    <img src="https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/art/readmemastertemplate.jpg" alt="ReadMe Master Templates" width=230 height=150>
   </a>
-  <h3 align="center">Project Heading</h3>
+  <h3 align="center">ReadMe Master Templates</h3>
 
   <p align="center">
     If you are working on your projects and using github, the README.md file is a useful file for you to write good and clear documentations for  your projects. Use this readMe to get started wiyth your project ReadMe faster.
@@ -24,11 +24,15 @@
 - [Contact Information](#)
 
 <hr>
+
 ### Description
+
 Despite the fact that you writing a technical document, it needs to be clear. Describing your project makes it easier for 
 
 <hr>
+
 ### Why the ReadMe-MasterTemplates?
+
 I lecture and coach technology. With the use of version control, i have noticed a huge struggle among most people to do a brief of what their project is about. Lets face it, most developers are not into typing out prose. 
 <br>
 In addition, most do not know what to include so that someone else working on their project can benefit.
@@ -43,6 +47,7 @@ ReadMe MasterTemplates aims to:
 
 
 <hr>
+
 ### How to use them
 
 1. All the files are in markdown format. Not important to learn markdown. That being said, it is always great to have the [Markdown CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
