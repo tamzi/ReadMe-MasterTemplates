@@ -13,8 +13,21 @@
 
 <br>
 
-## Table of contents
-- [Projects Map](#)
+### Table of contents
+
+**1 [Description](#description)**<br>
+**2 [Why read me master templates](#general-preview)**<br>
+**3 [Technical](#technical)**<br>
+**4 [Work in Progress](#work-in-progress)**<br>
+**5 [Contributing](#contributing)**<br>
+**6 [License](#license)**<br>
+**7 [Versions](#versions)**<br>
+**8 [Contributers](#contributers)**<br>
+
+:point_down: :point_down: :point_down: :point_down: :point_down:
+
+
+
 - [About the App](#)
 - [General Preview](#)
 - [Technical](#)

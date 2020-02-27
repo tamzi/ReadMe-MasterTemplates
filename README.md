@@ -5,7 +5,7 @@
   <h3 align="center">ReadMe Master Templates</h3>
 
   <p align="center">
-    If you are working on your projects and using github, the README.md file is a useful file for you to write good and clear documentations for  your projects. Use this readMe to get started wiyth your project ReadMe faster.
+    If you are working on your projects and using github, the README.md file is a useful starter place for you to write good and clear documentations for  your projects. Use this readMe roject to get started with your project's ReadMe.md file.
     <br>
     </p>
 </p>
@@ -65,6 +65,7 @@ ReadMe MasterTemplates aims to:
 
 
 <hr>
+
 ### To Do checkList
 
 - [x] Create An Android Projects ReadMe
