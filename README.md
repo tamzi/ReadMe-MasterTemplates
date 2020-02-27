@@ -14,33 +14,38 @@
 
 ## Table of contents
 - [Description](#description)
-- [Why the ReadMe-MasterTemplates?](#why-the-readMe-masterTemplates)
-- [How to use them](#)
-- [Technical](#)
-- [To Do checkList](#)
-- [Permissions](#)
-- [Licence](#)
-- [Versions](#)
-- [Contact Information](#)
+- [Why the MasterTemplates?](#why-the-master-templates)
+- [How to use them](#how-to-use-them)
+- [Roadmap](#roadmap)
+- [Releases](#releases)
+- [Contributors](#contributors)
+- [Licence](#licence)
 
 <hr>
 
 ### Description
 
-Despite the fact that you writing a technical document, it needs to be clear. Describing your project makes it easier for 
+Despite the fact that you writing a technical document, it needs to be clear. Describing your project makes it easier for people to contribute to it and alos use it!
+
+In this project you wil find the following readMes:
+
+ - [Android Project ReadMe template](https://github.com/tamzi/ReadMe-MasterTemplates/tree/master/android)
+ - [Web project template](https://github.com/tamzi/ReadMe-MasterTemplates/tree/master/website)
+ - A General contibutions guide in each project
 
 <hr>
 
-### Why the ReadMe-MasterTemplates?
+### Why the Master Templates?
 
-I lecture and coach technology. With the use of version control, i have noticed a huge struggle among most people to do a brief of what their project is about. Lets face it, most developers are not into typing out prose. 
+With the use of version control, there is a huge struggle among most people to do a brief of what their project is about.
+Lets face it, most developers are not into typing out prose to explain what they just built. Others dread the whole process of documenting it.
 <br>
-In addition, most do not know what to include so that someone else working on their project can benefit.
+In addition, what to include so that someone else working on their project can benefit from their amazing work can sometimes be a hard task.
 <br>
-This is the foundation behind this project. A smple project that allows you to get started with a well written **ReadMe.md** file.
+This is the foundation behind this project. A sample project that allows you to get started with a well written **ReadMe.md** file.
 
-ReadMe MasterTemplates aims to:
-    * Give developers an easy time when writing their project ReadMe.
+ReadMe MasterTemplates:
+    * Give developers an easy time when writing their project ReadMes.
     * Enable more time to be spent coding out their projects.
     * Help us have better github projects without one liners.
     * Help people who want to use the various projects on github to know more about the project's architecture.
@@ -50,7 +55,7 @@ ReadMe MasterTemplates aims to:
 
 ### How to use them
 
-1. All the files are in markdown format. Not important to learn markdown. That being said, it is always great to have the [Markdown CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+1. All the files are in markdown format. While it is good to learn markdown. It is always great to have the [Markdown CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
  bookmarked somewhere in your browser.(If you can learn it, awesome! It will save you time...**But it really is not important: the more you use markdown, the better you get at it O.o**). 
 
 2. There are different Markdown templates for each type of project as below: 
@@ -58,25 +63,60 @@ ReadMe MasterTemplates aims to:
     * [Website](https://github.com/tamzi/ReadMe-MasterTemplates/tree/master/website)- For websites with HTML, CSS and JS
     * IOS ...coming soon
     * Scripts ....coming soon
-    
-    Want a briefed version without many files to just copy paste: use this [brief]()
-3. As a general rule, provide link to download the app/website if its published on the playstore at the description section above.
-4. Want to contribute? Feel free: it's open source
+    * brief ...coming soon
+
+3. Copy the respective files depending on the type of project. Paste it and edit the file.
+
+4. As a general rule, provide link to download the app if its published on the playstore /website if it is hosted at the description section above.See image below
+
+:point_down: :point_down:
+
+[![Edit the Website link](https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/website/art/web.png)]
+
+5. Want to contribute? Feel free: it's open source. you can raise issues here:
 
 
 <hr>
 
-### To Do checkList
-
+### Roadmap
+  🚧 👷‍ ⛏ 👷 🔧️ 🚧
 - [x] Create An Android Projects ReadMe
 - [x] Create a website ReadMe for Html and css and JS projects
 - [ ] Creat a Scripts ReadMe file for Python, php, js type projects
 - [ ] Create a ReadMe file for IOS projects
-- [x] Finish v1 of the project
-- [ ] Minor launch for feedback and usage
+
+I would love to have your help in making  **droidconKE 2020 App** better.
+The project is still very incomplete, but if there's an issue you'd like to see addressed sooner rather than later, let us know.
+
+Before you contribute though read the contributing guide here: [CONTRIBUTING GUIDE](https://github.com/tamzi/droidconKE2020App/blob/master/contributing.md)
+
+For any concerns kindly:
+- [Open an issue](https://github.com/tamzi/ReadMe-MasterTemplates/issues),
+
+    or JUST,
+
+- [Fork the project and send a pull request](https://github.com/tamzi/ReadMe-MasterTemplates/pulls).
+
+
 
 <hr>
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=103)](#)  
+
+### Releases
+    - [x] [code of conduct](https://github.com/tamzi/ReadMe-MasterTemplates/CodeOfConduct.md)
+    - [x] [Android ReadMe version](https://github.com/tamzi/ReadMe-MasterTemplates/tree/master/android)
+    - [ ] Web version
+
+### Contributors
+
+<a href="https://github.com/tamzi/ReadMe-MasterTemplates/graphs/contributors">
+  <img src="https://contributors-img.firebaseapp.com/image?repo=tamzi/ReadMe-MasterTemplates" />
+</a>
+
+Twitter:  [@tamrefrank](https://twitter.com/tamrefrank)
+
+### Licence
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=103)](#)
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](#)
+
 

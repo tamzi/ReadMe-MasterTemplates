@@ -1,12 +1,14 @@
 <p align="center">
   <a href="https://github.com/yourUserName/YourProjectName">
-    <img src="#" alt="Project Name" width=150 height=150>
+    <img src="https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/art/readmEmasterTemplatesAndroid.jpg" alt="Project Name" width=250 height=160>
   </a>
-  <h3 align="center">Project Heading</h3>
+  <h3 align="center">Your Project Heading</h3>
 
   <p align="center">
     Brief description about your project. <br>
    And extra description.
+    <br>
+     <img src="https://forthebadge.com/images/badges/built-for-android.svg" alt="droidconKE2020 built for Android">
     <br>
     </p>
 </p>
@@ -15,8 +17,8 @@
 
 ### Table of contents
 
-**1 [Description](#description)**<br>
-**2 [Why read me master templates](#general-preview)**<br>
+**1 [About the App](#about-the-app)**<br>
+**2 [General Preview](#general-preview)**<br>
 **3 [Technical](#technical)**<br>
 **4 [Work in Progress](#work-in-progress)**<br>
 **5 [Contributing](#contributing)**<br>
@@ -27,26 +29,12 @@
 :point_down: :point_down: :point_down: :point_down: :point_down:
 
 
-
-- [About the App](#)
-- [General Preview](#)
-- [Technical](#)
-    - [Project Dependencies](#)
-- [To Do List](#)
-- [Permissions](#)
-- [Licence](#)
-- [Versions](#)
-- [Contact Information](#)
-- [Link to deeper Notes-(Link to another File)](#https://github.com/tamzi/ML4Mobile/blob/master/notes.md)
-
-
-
 <hr>
-### about app
+## About the app
 Short description of how it works: maybe a small user flow description.
 
 <hr>
-### GENERAL PREVIEW
+## General Preview
 #### Screenshots of the app
 You can have multiple images like below.
 
@@ -70,6 +58,7 @@ Is the app published? You can share a link as below:
 [![Download it on Google Play](https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/gplay.png)](https://play.google.com/store/apps/details?id=com.package.path)
 
 <hr>
+## Technical
 ## Permissions
 * Any permissions needed by the app i.e:
 
@@ -152,7 +141,7 @@ For any concerns, please open an [issue{edit this}](https://github.com/YourUserN
 
 
 
-## Contact information
+## Contributers
 For personal feedback or questions feel free to contact me via the mail address, which is mentioned on my [Github profile](link (https://github.com/tamzi). If you have found any bugs or want to post a feature request please use the [bugtracker](https://github.com/tamzi/ReadMe-MasterTemplates/issues) to report them.
 
 
