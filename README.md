@@ -71,10 +71,9 @@ If you can learn it, awesome! It will save you time...But it really is not impor
 3. Copy the respective files depending on the type of project. Paste it and edit the file.
 
 4. As a general rule, provide link to download the app if its published on the playstore /website if it is hosted at the description section above.See image below
-
 :point_down: :point_down:
 
-[![Edit the Website link](https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/website/art/web.png)]
+![Edit the Website link](https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/website/art/web.png)
 
 5. Want to give a suggestion? Feel free: it's open source. you can [raise issues here](https://github.com/tamzi/ReadMe-MasterTemplates/issues):
 
@@ -106,7 +105,6 @@ Before you contribute though read the contributing guide here: [CONTRIBUTING GUI
 <hr>
 
 ### Releases
-
 - [x] [code of conduct](https://github.com/tamzi/ReadMe-MasterTemplates/CodeOfConduct.md)
 - [x] [contribution](https://github.com/tamzi/ReadMe-MasterTemplates/contributing.md)
 - [x] [Android ReadMe version](https://github.com/tamzi/ReadMe-MasterTemplates/tree/master/android)
