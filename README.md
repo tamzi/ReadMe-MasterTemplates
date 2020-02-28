@@ -105,8 +105,8 @@ Before you contribute though read the contributing guide here: [CONTRIBUTING GUI
 <hr>
 
 ### Releases
-- [x] [code of conduct](https://github.com/tamzi/ReadMe-MasterTemplates/CodeOfConduct.md)
-- [x] [contribution](https://github.com/tamzi/ReadMe-MasterTemplates/contributing.md)
+- [x] [code of conduct](https://github.com/tamzi/ReadMe-MasterTemplates/blob/master/CodeOfConduct.md)
+- [x] [contribution](https://github.com/tamzi/ReadMe-MasterTemplates/blob/master/contributing.md)
 - [x] [Android ReadMe version](https://github.com/tamzi/ReadMe-MasterTemplates/tree/master/android)
 - [ ] Web version
 - [ ] A brief ReadMe
