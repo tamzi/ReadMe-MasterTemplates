@@ -125,3 +125,4 @@ Twitter:  [@tamrefrank](https://twitter.com/tamrefrank)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](#)
 
 
+<a href="https://www.producthunt.com/posts/readme-master-templates?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-readme-master-templates" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=186076&theme=light" alt="ReadMe Master Templates - Better ReadMe projects for your projects! | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
