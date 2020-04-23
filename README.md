@@ -110,6 +110,7 @@ Before you contribute though read the contributing guide here: [CONTRIBUTING GUI
 - [x] [Android ReadMe version](https://github.com/tamzi/ReadMe-MasterTemplates/tree/master/android)
 - [ ] Web version
 - [ ] A brief ReadMe
+- [ ] ReadMe master templates plugins: Brackets, Android Studio, VSCode,IntelliJ
 
 ### Contributors
 
