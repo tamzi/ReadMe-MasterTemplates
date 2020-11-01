@@ -121,7 +121,7 @@ Before you contribute though read the contributing guide here: [CONTRIBUTING GUI
 Twitter:  [@tamrefrank](https://twitter.com/tamrefrank)
 
 ### Licence
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source-200x33.png?v=103)](#)
+
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](#)
 
