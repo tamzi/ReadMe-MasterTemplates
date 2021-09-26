@@ -14,3 +14,4 @@ Answer the following questions:
     - Issue(s) affected?
 2. Write descriptive commit message.
 3. Check for unnecessary whitespace with `git diff --check` before committing.
+
