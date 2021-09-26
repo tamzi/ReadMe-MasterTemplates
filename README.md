@@ -12,6 +12,7 @@
 
 <br>
 
+
 ## Table of contents
 - [Description](#description)
 - [Why the MasterTemplates?](#why-the-master-templates)
@@ -63,10 +64,11 @@ If you can learn it, awesome! It will save you time...But it really is not impor
 
 2. There are different Markdown templates for each type of project as below: 
     * [Android](https://github.com/tamzi/ReadMe-MasterTemplates/tree/master/android)- For android focused ReadMe
-    * [Website](https://github.com/tamzi/ReadMe-MasterTemplates/tree/master/website)- For websites with HTML, CSS and JS
+    * [Website](https://github.com/tamzi/ReadMe-MasterTemplates/tree/master/website)- For your HTML&CSS JS projects
+    * [brief](https://github.com/tamzi/ReadMe-MasterTemplates/blob/master/brief/brief.md)  - minimal version
     * IOS ...coming soon - FOr IOS projects
     * Scripts ....coming soon - For Python, JS type projects
-    * brief ...coming soon - TLo edit, this is a minimal version
+
 
 3. Copy the respective files depending on the type of project. Paste it and edit the file.
 
@@ -83,11 +85,16 @@ If you can learn it, awesome! It will save you time...But it really is not impor
 ### Roadmap
   🚧 👷‍ ⛏ 👷 🔧️ 🚧
 - [x] Create An Android Projects ReadMe.
+- [x] Create a flutter Projects ReadMe.
 - [x] Create a website ReadMe for Html and css and JS projects.
+- [x] Create a brief ReadMe for the quick ones.
 - [ ] Creat a Scripts ReadMe file for Python, php, js type projects
 - [ ] Create a ReadMe file for IOS projects
+- [ ] Create a ReadMe generator for VSCode
+- [ ] Create a documenation page: [WIP documenation](https://tamzi.github.io/ReadMe-MasterTemplates/)
 
-I would love to have your help in making  **readMe master templates** better.
+
+You are welcome to help in making  **readMe master templates** better.
 
 The project is still very incomplete but under development. If there's an [issue](https://github.com/tamzi/ReadMe-MasterTemplates/issues) you'd like to see addressed sooner rather than later:
 
@@ -98,7 +105,7 @@ The project is still very incomplete but under development. If there's an [issue
 - [Fork the project and send a pull request](https://github.com/tamzi/ReadMe-MasterTemplates/pulls).
 
 
-Before you contribute though read the contributing guide here: [CONTRIBUTING GUIDE](https://github.com/tamzi/droidconKE2020App/blob/master/contributing.md)
+Before you contribute though read the contributing guide here: [CONTRIBUTING GUIDE](https://github.com/tamzi/ReadMe-MasterTemplates/blob/master/contributing.md)
 
 
 
@@ -108,9 +115,9 @@ Before you contribute though read the contributing guide here: [CONTRIBUTING GUI
 - [x] [code of conduct](https://github.com/tamzi/ReadMe-MasterTemplates/blob/master/CodeOfConduct.md)
 - [x] [contribution](https://github.com/tamzi/ReadMe-MasterTemplates/blob/master/contributing.md)
 - [x] [Android ReadMe version](https://github.com/tamzi/ReadMe-MasterTemplates/tree/master/android)
-- [ ] Web version
-- [ ] A brief ReadMe
-- [ ] ReadMe master templates plugins: Brackets, Android Studio, VSCode,IntelliJ
+- [x] [Web version](https://github.com/tamzi/ReadMe-MasterTemplates/tree/master/website)
+- [x] [A brief ReadMe](https://github.com/tamzi/ReadMe-MasterTemplates/blob/master/brief/brief.md)
+
 
 ### Contributors
 
