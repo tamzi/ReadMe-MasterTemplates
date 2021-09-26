@@ -72,5 +72,13 @@ If you can learn it, awesome! It will save you time...But it really is not impor
 
 5. Want to give a suggestion? Feel free: it's open source. you can [raise issues here](https://github.com/tamzi/ReadMe-MasterTemplates/issues):
 
-
 <hr>
+
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](#)
+
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftamzi%2FReadMe-MasterTemplates.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftamzi%2FReadMe-MasterTemplates?ref=badge_large)
+
+<a href="https://www.producthunt.com/posts/readme-master-templates?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-readme-master-templates" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=186076&theme=light" alt="ReadMe Master Templates - Better ReadMe projects for your projects! | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
+
