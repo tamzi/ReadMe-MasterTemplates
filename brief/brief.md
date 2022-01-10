@@ -25,15 +25,15 @@
 - [Link to deeper Notes-(Link to another File)](#https://github.com/tamzi/ML4Mobile/blob/master/notes.md)
 
 <hr>
-### Technologies Used 
-IntelliJ 
-Maven 
-Gradle 
-PostgreSQL 
+### Technologies Used
+IntelliJ
+Maven
+Gradle
+PostgreSQL
 Github
-Heroku 
-JUint testing 
-Swagger editor 
+Heroku
+JUint testing
+Swagger editor
 Javalin
 
 <hr>
@@ -41,7 +41,7 @@ Javalin
 
 This app is designed to track health, there are 4 core features:
 Users - Persons who use the app
-Activities - Log exercise activities such as running  
+Activities - Log exercise activities such as running
 Sleep - Track sleep patterns
 Meals - Track meals and calories
 
